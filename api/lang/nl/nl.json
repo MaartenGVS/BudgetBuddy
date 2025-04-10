@@ -1,0 +1,51 @@
+{
+    "home": {
+        "title": "Welkom to BudgetBuddy!"
+    },
+    "auth": {
+        "registerForm": {
+            "title": "Registreren",
+            "instructions": "Vul dit formulier in om een account aan te maken.",
+            "fullName": "Naam",
+            "email": "E-mailadres",
+            "password": "Wachtwoord",
+            "confirmPassword": "Bevestig wachtwoord",
+            "submitButton": "Registreren",
+            "loginPrompt": "Heb je al een account? Log in.",
+            "loginLink": "Log in",
+            "stateMessage": "Proberen te registreren..."
+        },
+        "loginForm": {
+            "title": "Inloggen",
+            "instructions": "Log in om te starten met jouw budget te managen.",
+            "email": "E-mailadres",
+            "password": "Wachtwoord",
+            "rememberMe": "Onthoud mij",
+            "forgotPassword": "Wachtwoord vergeten?",
+            "submitButton": "Inloggen",
+            "registerPrompt": "Heb je nog geen account?",
+            "registerLink": "Registreer nu.",
+            "stateMessage": "Proberen in te loggen..."
+        }
+    },
+    "front-page": {
+        "title": "Uw Budget",
+        "search": "Zoek",
+        "entries": "entiteiten per pagina",
+        "filter": "Filter",
+        "incomes": "Inkomsten",
+        "expenses": "Uitgaven",
+        "name": "Naam",
+        "amount": "Bedrag",
+        "description": "Omschrijving",
+        "add-transactions": "Voeg transactie toe",
+        "actions": "Acties",
+        "all": "Alles"
+    },
+    "edit-page": {
+        "expenses": "Uitgaven",
+        "incomes": "Inkomsten",
+        "expense": "uitgave",
+        "income": "inkomen"
+    }
+}
